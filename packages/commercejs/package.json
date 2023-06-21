@@ -51,7 +51,7 @@
     "@vercel/commerce": "workspace:*",
     "cookie": "^0.4.1",
     "js-cookie": "^3.0.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash.debounce": "^4.0.8"
   },
   "peerDependencies": {
